@@ -7,6 +7,11 @@ namespace OOP_EXAM_ANSWERS
     {
         static void Main(string[] args)
         {
+            /*
+            * Thank you for reviewing the code.
+            * This program demonstrates the exam management system process.
+            */
+
             Subject subject = new Subject(1, "OOP");
             subject.CreateExam();
 
