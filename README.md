@@ -1,7 +1,8 @@
 # Examination System
 
-A console-based Examination System developed using C# as part of the .NET Web Development Diploma at Route Academy.
-The project demonstrates core Object-Oriented Programming (OOP) concepts through the design and implementation of an examination system that supports different exam types and question types.
+A console-based Examination System developed using C# as part of the **.NET Web Development Diploma** at **Route Academy**.
+
+The project demonstrates core **Object-Oriented Programming (OOP)** concepts through the design and implementation of an examination system that supports different exam types and question types.
 
 ---
 
